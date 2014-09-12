@@ -7,6 +7,8 @@ If there is a complaint about a commit, it must be discussed by the Committee. T
 Folder purposes
 =====================
 
+These are for files that have been accepted by vote as acceptable.
+
 Staging will be for files that are still in development and may break things and have bugs and glitches.
 
 Testing will be for files that are complete, but require testing for bugs and glitches. Files that break things will be sent back to the Staging area.
